@@ -1,4 +1,4 @@
-#SuperHero PiBooth 
+# SuperHero PiBooth 
 
 This project at a high-level has students take a photo of themselves using a Rasberry Pi 5, and prints/emails them their photo after it has been cartoonized.
 

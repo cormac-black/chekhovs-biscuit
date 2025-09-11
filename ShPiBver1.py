@@ -35,6 +35,8 @@ print_photo = False #to print physical photo
 
 #XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+#test comment
+
 haar_cascade_path = '/home/pi1/Downloads/haarcascade_frontalface_default.xml'
 
 if not os.path.exists(haar_cascade_path):

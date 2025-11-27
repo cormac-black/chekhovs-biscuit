@@ -45,4 +45,4 @@ Finally you push all the changes to the origin repo.
 
     git  push origin main
  
-Oh, and make my funk the P funk...
+Oh, and make my funk the P funk... I wants to get funked up.

@@ -50,5 +50,14 @@ Finally you push all the changes to the origin repo.
     git  push origin main
  
 
+To change the user name connected to commit actions:
 
+    this will set all commits from this computer
+        git config --global user.name "text"
+        git config --global useremail "email@corp.com"
+    
+    this will only set commits from this directory:
+        git config user.name "text"
+        git config user.email "email@corp.com"
+    
 

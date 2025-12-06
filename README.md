@@ -21,6 +21,10 @@ check the connection:
     >> <address> (fetch)
     >> <address> (push)
 
+        if it is not the repo you expect, then change it:
+
+            git remote set-url origin https://github.com/cormac-black/correct-repo.git
+
 IMPORTANT Before adding, sychronize  to be sure your not overriding any changes:
 
     git pull origin main
@@ -45,4 +49,6 @@ Finally you push all the changes to the origin repo.
 
     git  push origin main
  
-Oh, and make my funk the P funk... I wants to get funked up.
+
+
+
